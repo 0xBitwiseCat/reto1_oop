@@ -12,5 +12,5 @@ Desarrolle la mayoría de ejercicios en clase. Para cada punto cree un programa 
 
 5. Escribir una función que reciba una lista de string y retorne unicamente aquellos elementos que tengan los mismos caracteres. e.g. entrada: ["amor", "roma", "perro"], salida ["amor", "roma"]
 
->[!INFO]
+>[!IMPORTANT]
 >P.D. El repositorio debe tener los archivos .py de los 5 puntos, uno por cada ejercicio. Asimismo una corta explicación de como llego a la solución.
