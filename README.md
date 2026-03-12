@@ -1,4 +1,4 @@
-#Reto 1
+# Reto 1
 
 Desarrolle la mayoría de ejercicios en clase. Para cada punto cree un programa individual. Al finalizar suba todo a un repo y súbalo al canal reto_1 en slack.
 
